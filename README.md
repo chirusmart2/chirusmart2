@@ -20,12 +20,12 @@ A full-stack book marketplace with a landing page, separate seller and buyer por
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirusmart2&show_icons=true&theme=github_dark&hide_title=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirusmart2&layout=compact&theme=github_dark&hide=html,css" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirusmart2&theme=github_dark" alt="Streak stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=chirusmart2&show_icons=true&theme=github_dark&hide_title=false" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chirusmart2&layout=compact&theme=github_dark&hide=html,css" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=chirusmart2&theme=github_dark" alt="Streak stats" />
 </p>
 
-*The stats images above are generated live. If the mobile app shows placeholders, open your profile in a desktop browser.*
+*The stats cards above are generated live from your activity.*
 
 ### 📬 Contact
 
