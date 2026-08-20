@@ -29,4 +29,4 @@ A full-stack book marketplace with a landing page, separate seller and buyer por
 
 ### 📬 Contact
 
-[LinkedIn](https://www.linkedin.com/in/chiru-hanuman-624224325) · [Instagram](https://www.instagram.com/chiru__smart) · Email: chirusmart2@gmail.com
+[LinkedIn](https://www.linkedin.com/in/chiru-hanuman-624224325) · [Instagram](https://www.instagram.com/chiru__smart) · Email: chiruhanuman2@gmail.com
